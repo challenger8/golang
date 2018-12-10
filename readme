@@ -1,0 +1,4 @@
+a real simple crawler with go ,for finding details of a thing in a internet shop
+you can run code like this:
+open terminal 
+go run realsimple.go <url>
